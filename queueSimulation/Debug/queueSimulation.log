@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\toll.h(78): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\toll.h(83): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\toll.h(96): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\toll.h(100): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\toll.h(113): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\toll.h(125): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\toll.h(145): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\toll.h(152): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\rule.h(20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\rule.h(35): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\rule.h(51): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\rule.h(61): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\herik\source\repos\seraQCumpreOProposito\seraQCumpreOProposito\rule.h(120): warning C4018: '<': incompatibilidade de signed/unsigned
+  seraQCumpreOProposito.vcxproj -> C:\Users\herik\source\repos\seraQCumpreOProposito\Debug\seraQCumpreOProposito.exe
